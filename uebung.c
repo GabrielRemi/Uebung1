@@ -1,3 +1,4 @@
+// compile command in linux: gcc uebung.c -o uebung -lm
 #include <stdio.h>
 #include <math.h>
 
